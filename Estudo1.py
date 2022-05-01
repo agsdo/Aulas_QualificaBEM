@@ -1,3 +1,3 @@
+nome_usuario = input('Digite seu nome:')
 idade = input('Digite sua idade:')
-print('Sua idade é:')
-print(idade)
+print(nome_usuario, idade, "anos.")
